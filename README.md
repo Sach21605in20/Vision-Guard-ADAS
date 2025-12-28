@@ -40,12 +40,12 @@ If you are viewing this on GitHub, you can watch the system in action below:
 ### 🖼️ System Output (Day / Night / Rain)
 | **Daylight Conditions** | **Night Conditions** |
 | :---: | :---: |
-| ![Day Output](demo/Day Output.jpeg) | ![Night Output](assets/night_demo.JPG) |
+| ![Day Output](demo/dayop.jpeg) | ![Night Output](demo/nightop.jpeg) |
 | *Clear lane visibility and object tracking* | *Robust detection in low-light environments* |
 
 | **Rainy / Wet Conditions** | **Bird's Eye View (BEV)** |
 | :---: | :---: |
-| ![Rainy Output](assets/rain_demo.JPG) | ![BEV Panel](assets/bev_demo.JPG) |
+| ![Rainy Output](demo/rainop.jpeg) | ![BEV Panel](demo/bev_demo.jpeg) |
 | *Handling reflections and reduced visibility* | *Top-down view for precise offset math* |
 
 ---
