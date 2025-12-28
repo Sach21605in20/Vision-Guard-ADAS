@@ -30,7 +30,7 @@ A high-performance **Advanced Driver-Assistance System (ADAS)** software pipelin
 If you are viewing this on GitHub, you can watch the system in action below:
 
 <p align="center">
-  <video src="demo/demo_video.mp4" width="800" controls>
+  <video src="demo/demo_video.gif" width="800" controls>
     Your browser does not support the video tag.
   </video>
 </p>
