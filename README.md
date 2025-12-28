@@ -1,4 +1,4 @@
-# 🚗 Real-Time LDWS & Vehicle Detection ADAS (ONNX Powered)
+# 🚗 Vision Guard- ADAS( Realtime Lane Detection )
 
 <p align="center">
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-14354C.svg?logo=python&logoColor=white"></a>
@@ -30,12 +30,12 @@ A high-performance **Advanced Driver-Assistance System (ADAS)** software pipelin
 If you are viewing this on GitHub, you can watch the system in action below:
 
 <p align="center">
-  <video src="assets/demo_video.mp4" width="800" controls>
+  <video src="demo/demo_video.mp4" width="800" controls>
     Your browser does not support the video tag.
   </video>
 </p>
 
-> *Note: Place your video file in the `assets/` folder and name it `demo_video.mp4`.*
+
 
 ### 🖼️ System Output (Day / Night / Rain)
 | **Daylight Conditions** | **Night Conditions** |
@@ -82,7 +82,7 @@ The models used in this project were tested and validated using a diverse drivin
 Below is the high-level block diagram representing the system flow from raw video input to final visual feedback.
 
 <p align="center">
-  <img src="assets/block_diagram.png" alt="System Block Diagram" width="900">
+  <img src="demo/block_diagram.jpeg" alt="System Block Diagram" width="900">
 </p>
 
 
