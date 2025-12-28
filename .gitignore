@@ -1,0 +1,30 @@
+# --- Python / Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv
+env/
+build/
+dist/
+*.egg-info/
+
+# --- ADAS Project Specifics ---
+# Ignore the generated output videos and logs
+*_out.mp4
+*_log.csv
+
+# Ignore local datasets (keep your repo small)
+drivingDataset/
+assets/*.png
+assets/*.jpg
+
+# --- AI / Deep Learning Models ---
+*.onnx
+*.trt
+*.pth
+*.weights
+*.h5
+*.bin
+
