@@ -45,7 +45,7 @@ If you are viewing this on GitHub, you can watch the system in action below:
 
 | **Rainy / Wet Conditions** | **Bird's Eye View (BEV)** |
 | :---: | :---: |
-| ![Rainy Output](demo/rainop.jpeg) | ![BEV Panel](demo/bev_demo.jpeg) |
+| ![Rainy Output](demo/rainop.jpeg) | ![BEV Panel](demo/BEV.jpeg) |
 | *Handling reflections and reduced visibility* | *Top-down view for precise offset math* |
 
 ---
